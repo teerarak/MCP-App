@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stream-http": {
+      "command": "node",
+      "args": ["/absolute/path/to/MCP-App/dist/index.js"]
+    }
+  }
+}
